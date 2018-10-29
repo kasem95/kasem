@@ -10,6 +10,7 @@ namespace kasem
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("morad");
         }
     }
 }
